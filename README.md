@@ -1,6 +1,6 @@
 <h2 align="left">Hi there! 👋</h2>
   
-I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC for Image sensing. I have been a PhD student in neuroengineering focused on designing neural DSP algorithms for FPGA.
+I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC for Image sensing.
 
 <!-- <p align="center">
     <img src="https://github.com/MattiaDif/MattiaDif/blob/main/spike_github.png" width=15% height=15%>
