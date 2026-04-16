@@ -7,7 +7,7 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
 </p> -->
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Where-Italy, Pavia-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Where-Italy, Como-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange?style=for-the-badge">
 </p>
 
