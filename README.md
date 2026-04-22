@@ -33,19 +33,19 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
     <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-red.svg?style=for-the-badge&logoColor=white">
 </p>
 
-
+<!--
 <h3 align="left">HDL Simulators</h3>
 <p align="left"> 
     <img alt="GHDL" src="https://img.shields.io/badge/GHDL-0245F7.svg?style=for-the-badge&logoColor=white">
     <img alt="Vivado Simulator" src="https://img.shields.io/badge/Vivado Simulator-yellowgreen.svg?style=for-the-badge&logoColor=white">
     <img alt="Icarus Verilog" src="https://img.shields.io/badge/Icarus Verilog-red.svg?style=for-the-badge&logoColor=white">
-    <!-- <img alt="GTKWave" src="https://img.shields.io/badge/GTKWave-darkgreen.svg?style=for-the-badge&logoColor=white"> -->
-</p>
+    <img alt="GTKWave" src="https://img.shields.io/badge/GTKWave-darkgreen.svg?style=for-the-badge&logoColor=white">
+</p> -->
 
 
 <h3 align="left">Tools</h3>
 <p align="left">
-    <img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">
+    <!--<img alt="Vivado" src="https://img.shields.io/badge/Vivado-yellowgreen.svg?style=for-the-badge&logo=xilinx&logoColor=white">-->
     <!--<img alt="MPLAB X IDE" src="https://img.shields.io/badge/MPLAB X IDE-052E38.svg?style=for-the-badge&logoColor=white">-->
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
@@ -53,9 +53,16 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
     <img alt="VUnit" src="https://img.shields.io/badge/VUnit-0C479D.svg?style=for-the-badge&logoColor=white"> -->
 </p>
 
-<h3 align="left">EDA for IC design</h3>
+<h3 align="left">EDA for IC/System design</h3>
 <p align="left">
     <img alt="Cadence" src="https://img.shields.io/badge/Cadence-red.svg?style=for-the-badge&logo=cadence&logoColor=white">
+    <img alt="Xilinx" src="https://img.shields.io/badge/Xilinx-yellow.svg?style=for-the-badge&logo=xilinx&logoColor=white">
+</p>
+
+<h3 align="left">Platforms</h3>
+<p align="left">
+    <img alt="FPGA" src="https://img.shields.io/badge/fpga-green.svg?style=for-the-badge&logo=fpga&logoColor=white">
+    <img alt="SoC" src="https://img.shields.io/badge/SoC-blue.svg?style=for-the-badge&logo=SoC&logoColor=white">
 </p>
 
 <!--
@@ -65,11 +72,12 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
 </p>
 -->
 
+<!--
 <h3 align="left">Graphic Design</h3>
 <p align="left">
     <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-white.svg?style=for-the-badge&logo=Inkscape&logoColor=black">
     <img alt="Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white">
-</p>
+</p> -->
 
 
 
