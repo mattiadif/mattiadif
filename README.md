@@ -2,13 +2,35 @@
   
 I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC for Image sensing.
 
+<p align="left">
+    I have 5+ years of experience developing and implementing DSP
+    algorithms for real-time signal processing and image sensing.
+</p>
+
 <!-- <p align="center">
     <img src="https://github.com/MattiaDif/MattiaDif/blob/main/spike_github.png" width=15% height=15%>
 </p> -->
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Where-Italy, Lomazzo-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Where-Italy, Greater Milan Metropolitan Area-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/Language-Italian%20%26%20English-orange?style=for-the-badge">
+</p>
+
+<p align="center">• • •</p>
+
+<h3 align="left">Experience</h3>
+<p align="left">
+    <b>Digital IC Design Engineer</b> — EYE4NIR (Nov. 2025–Present)<br>
+    Control logic and image-processing algorithms for germanium-on-silicon VIS-NIR/SWIR
+    image sensors (ASIC design, RTL code and verification, FPGA/SoC system architecture design for imager testing).
+</p>
+<p align="left">
+    <b>Digital IC Design Engineer</b> — Inventvm Semiconductor (Nov. 2024–Oct. 2025)<br>
+    DSP cores and control logic for low-power, multi-clock-domain audio ICs.
+</p>
+<p align="left">
+    <b>PhD Student</b> — Bioengineering Dept., University of Genoa (Nov. 2021–Nov. 2024)<br>
+    FPGA-based closed-loop system for real-time intracortical brain stimulation    (DSP, spike detection algorithms design, and low-frequency neural oscillation identification algorithm design). Active collaboration with Italian Institue of Technology and The MathWorks, Inc.
 </p>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDif)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -63,6 +85,13 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
 <p align="left">
     <img alt="FPGA" src="https://img.shields.io/badge/fpga-green.svg?style=for-the-badge&logo=fpga&logoColor=white">
     <img alt="SoC" src="https://img.shields.io/badge/SoC-blue.svg?style=for-the-badge&logo=SoC&logoColor=white">
+</p>
+
+<h3 align="left">Contact</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/mattia-di-florio-181914153/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </p>
 
 <!--
