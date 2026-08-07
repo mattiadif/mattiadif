@@ -18,6 +18,7 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
 
 <p align="center">• • •</p>
 
+<!--
 <h3 align="left">Experience</h3>
 <p align="left">
     <b>Digital IC Design Engineer</b> — EYE4NIR (Nov. 2025–Present)<br>
@@ -31,7 +32,7 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
 <p align="left">
     <b>PhD Student</b> — Bioengineering Dept., University of Genoa (Nov. 2021–Nov. 2024)<br>
     FPGA-based closed-loop system for real-time intracortical brain stimulation    (DSP, spike detection algorithms design, and low-frequency neural oscillation identification algorithm design). Active collaboration with Italian Institue of Technology and The MathWorks, Inc.
-</p>
+</p> -->
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaDif)](https://github.com/anuraghazra/github-readme-stats)-->
 
