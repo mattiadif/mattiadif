@@ -38,6 +38,19 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaDif&hide_progress=true)-->
 
+<h3 align="left">Hardware Description</h3>
+<p align="left"> 
+    <img alt="VHDL" src="https://img.shields.io/badge/VHDL-yellow.svg?style=for-the-badge&logoColor=white">
+    <img alt="Verilog" src="https://img.shields.io/badge/Verilog-red.svg?style=for-the-badge&logoColor=white">
+    <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-red.svg?style=for-the-badge&logoColor=white">
+</p>
+
+<h3 align="left">EDA for IC/System design</h3>
+<p align="left">
+    <img alt="Cadence" src="https://img.shields.io/badge/Cadence-red.svg?style=for-the-badge&logo=cadence&logoColor=white">
+    <img alt="Xilinx" src="https://img.shields.io/badge/Xilinx-yellow.svg?style=for-the-badge&logo=xilinx&logoColor=white">
+</p>
+
 <h3 align="left">Programming / Scripting</h3>
 <p align="left"> 
     <img alt="Matlab" src="https://img.shields.io/badge/Matlab-BF4806.svg?style=for-the-badge&logo=matlab&logoColor=white">
@@ -46,14 +59,6 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="Phyton" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img alt="Tcl" src="https://img.shields.io/badge/Tcl-red?style=for-the-badge">
-</p>
-
-
-<h3 align="left">Hardware Description</h3>
-<p align="left"> 
-    <img alt="VHDL" src="https://img.shields.io/badge/VHDL-yellow.svg?style=for-the-badge&logoColor=white">
-    <img alt="Verilog" src="https://img.shields.io/badge/Verilog-red.svg?style=for-the-badge&logoColor=white">
-    <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-red.svg?style=for-the-badge&logoColor=white">
 </p>
 
 <!--
@@ -74,12 +79,6 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
     <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
     <!-- <img alt="SmartGit" src="https://img.shields.io/badge/SmartGit-grey.svg?style=for-the-badge&logoColor=white">
     <img alt="VUnit" src="https://img.shields.io/badge/VUnit-0C479D.svg?style=for-the-badge&logoColor=white"> -->
-</p>
-
-<h3 align="left">EDA for IC/System design</h3>
-<p align="left">
-    <img alt="Cadence" src="https://img.shields.io/badge/Cadence-red.svg?style=for-the-badge&logo=cadence&logoColor=white">
-    <img alt="Xilinx" src="https://img.shields.io/badge/Xilinx-yellow.svg?style=for-the-badge&logo=xilinx&logoColor=white">
 </p>
 
 <h3 align="left">Platforms</h3>
