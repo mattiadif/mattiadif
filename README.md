@@ -85,6 +85,7 @@ I'm Mattia, a digital design engineer at EYE4NIR company focused on designing IC
 <p align="left">
     <img alt="FPGA" src="https://img.shields.io/badge/fpga-green.svg?style=for-the-badge&logo=fpga&logoColor=white">
     <img alt="SoC" src="https://img.shields.io/badge/SoC-blue.svg?style=for-the-badge&logo=SoC&logoColor=white">
+    <img alt="ASIC" src="https://img.shields.io/badge/ASIC-yellow.svg?style=for-the-badge&logo=ASIC&logoColor=white">
 </p>
 
 <h3 align="left">Contact</h3>
